@@ -19,7 +19,7 @@ As the project builds and resolves the dependencies.
 This will run the project. The API will be accessible on configured port 9090 from application.properties.
 The URL to access the API :
 
-http://localhost:9090/
+http://localhost:8080/
 
 URL to access the swagger ui:
 
