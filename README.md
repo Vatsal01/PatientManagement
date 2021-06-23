@@ -16,7 +16,7 @@ As the project builds and resolves the dependencies.
 
 `./gradlew bootRun`
 
-This will run the project. The API will be accessible on configured port 9090 from application.properties.
+This will run the project. The API will be accessible on configured port 8080 from application.properties.
 The URL to access the API :
 
 http://localhost:8080/
