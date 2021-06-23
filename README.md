@@ -23,7 +23,7 @@ http://localhost:8080/
 
 URL to access the swagger ui:
 
-http://localhost:9090/swagger-ui/#/
+http://localhost:8080/swagger-ui/#/
 
 All the endpoints are automatically deployed on swagger using SpringFox.
 
